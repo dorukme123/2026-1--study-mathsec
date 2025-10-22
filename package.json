@@ -6,9 +6,12 @@
   "repository": "https://github.com/yamadharma/course-directory-student-template.git",
   "author": "dorukme123 <dorukmerickymkc@gmail.com>",
   "license": "CC-BY-4.0",
-    "config": {
-	"commitizen": {
-	    "path": "cz-conventional-changelog"
-	}
+  "config": {
+    "commitizen": {
+      "path": "cz-conventional-changelog"
     }
+  },
+  "dependencies": {
+    "standard-changelog": "^7.0.1"
+  }
 }
